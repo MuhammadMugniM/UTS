@@ -72,7 +72,7 @@ public class MainApp {
         }
     }
 
-    // --- MENU 1: TAMBAH DATA (ANTI ERROR) ---
+    // --- MENU 1: TAMBAH DATA ---
     static void menuTambah() {
         System.out.println("\n--- TAMBAH PAKET BARU ---");
         System.out.println("1. Wisata Alam");
@@ -242,4 +242,5 @@ public class MainApp {
             System.out.println("Nomor paket salah / Batal.");
         }
     }
+
 }
